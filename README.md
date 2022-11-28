@@ -35,4 +35,4 @@ Hi, I'm a former Management Consultant and Accountant turned Data Analyst. I mas
 
 
 📫 **Connect With Me** 📫
-- LinkedIn
+- [LinkedIn](https://www.linkedin.com/in/coltonlawson/)
