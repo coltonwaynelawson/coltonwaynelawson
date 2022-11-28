@@ -13,37 +13,38 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello. I'm Colton, an experienced data analyst from Colorado.
+**Hello. I'm Colton.**
+I'm an experienced data analyst from Colorado.
 
-✨ About Me ✨
+✨ **About Me** ✨
 - Management Consultant & Accountant turned Data Analyst
 - Mastered Excel while working at Deloitte (i.e. I can use Excel without a mouse)
 - Self taught SQL, Python, PowerBI and Tableau
 
-📒 Projects & Guides 📒
+📒 **Projects & Guides** 📒
 - For my portfolio guide, click HERE
 
-🖊️ Certifications 🖊️
+🖊️ **Certifications** 🖊️
 - Google Data Analytics Professional
 - AICPA Data Analytics
 
-💡 Core Competencies 💡
+💡 **Core Competencies** 💡
 - Excel
 - SQL
 - Python
 - PowerBI
 - Tableau
 
-📌 Key Skills📌
+📌 **Key Skills** 📌
 - Data Cleaning and Wrangling
 - Data Visualization
 - Data Analysis
 - Relational Databases
 - Dashboard Design and Development
 
-⚡️ Currently Learning ⚡
+⚡️ **Currently Learning** ⚡
 - Learning machine learning (ML) using Python
 - Learning database administration
 
-📫 Connect with Me 📫
+📫 **Connect With Me** 📫
 - LinkedIn
