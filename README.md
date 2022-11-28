@@ -30,8 +30,8 @@ Hi, I'm a former Management Consultant and Accountant turned Data Analyst. I mas
 
 
 ⚡️ **Currently Learning** ⚡
-- Learning machine learning (ML) using Python
-- Learning database administration
+- Machine learning (ML) using Python
+- Database administration
 
 
 📫 **Connect With Me** 📫
