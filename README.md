@@ -24,7 +24,6 @@ Hello. I'm Colton, an experienced data analyst from Colorado.
 
 -Self taught SQL, Python, PowerBI and Tableau
 
-
 📒 Projects & Guides 📒
 
 For my portfolio guide, click HERE
@@ -51,23 +50,16 @@ For my portfolio guide, click HERE
 
 
 📌 Key Skills📌
-
--Data Cleaning and Wrangling
-
--Data Visualization
-
--Data Analysis
-
--Relational Databases
-
--Dashboard Design and Development
+- Data Cleaning and Wrangling
+- Data Visualization
+- Data Analysis
+- Relational Databases
+- Dashboard Design and Development
 
 
-⚡️ Currently Learning ⚡️
-
--Learning machine learning (ML) using Python
-
--Learning database administration
+⚡️ Currently Learning ⚡
+- Learning machine learning (ML) using Python
+- Learning database administration
 
 
 📫 Connect with Me 📫
