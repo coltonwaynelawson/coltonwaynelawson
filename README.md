@@ -1,6 +1,6 @@
 ## Who is Colton and what is he creating?
 
-Hi, I'm a former Management Consultant and Accountant turned Data Analyst. I mastered Microsoft Excel early in my career, which is when I realized that I had a talent for data analytics. I have over 10 years of experience providing analytics, business process improvement, and consulting services. 
+Hi, I'm a former Management Consultant and Accountant turned Data Analyst. I mastered Microsoft Excel early in my career, which is when I realized that I had a talent for data analytics. I have over 10 years of experience providing analytics, business process improvement, and consulting services to companies all over the world.
 
 
 ✨ **Projects & Guides** ✨
