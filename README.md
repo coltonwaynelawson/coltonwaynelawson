@@ -1,5 +1,6 @@
-##Who is Colton and what is he creating?
-Hi 👋🏽 I'm a Global Analytics and Agile Leader, Teacher and Mentor who is passionate about bringing data fluency and technology together to elevate, build and expand organizations and communities. I have over 9️⃣ years of experience providing analytics, business process improvement and consulting services. I enjoy and specialize in data analyses 📉 around financial, talent and operational data and driving workforce strategies for Fortune 500 companies.
+## Who is Colton and what is he creating?
+
+Hi, I'm a former Big 4 Management Consultant and Accountant turned Data Analyist. I mastered Microsoft Excel early in my career, which is when I realized that I had a talent for data analytics. I have over 10 years of experience providing analytics, business process improvement, and consulting services. 
 
 
 ✨ **About Me** ✨
@@ -15,6 +16,7 @@ Hi 👋🏽 I'm a Global Analytics and Agile Leader, Teacher and Mentor who is p
 🖊️ **Certifications** 🖊️
 - Google Data Analytics Professional
 - AICPA Data Analytics
+- Project Management Professional (PMP)
 
 
 💡 **Core Competencies** 💡
