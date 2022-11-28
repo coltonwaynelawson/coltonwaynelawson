@@ -1,15 +1,9 @@
 ## Who is Colton and what is he creating?
 
-Hi, I'm a former Big 4 Management Consultant and Accountant turned Data Analyist. I mastered Microsoft Excel early in my career, which is when I realized that I had a talent for data analytics. I have over 10 years of experience providing analytics, business process improvement, and consulting services. 
+Hi, I'm a former Management Consultant and Accountant turned Data Analyst. I mastered Microsoft Excel early in my career, which is when I realized that I had a talent for data analytics. I have over 10 years of experience providing analytics, business process improvement, and consulting services. 
 
 
-✨ **About Me** ✨
-- Management Consultant & Accountant turned Data Analyst
-- Mastered Excel while working at Deloitte (i.e. I can use Excel without a mouse)
-- Self taught SQL, Python, PowerBI and Tableau
-
-
-📒 **Projects & Guides** 📒
+✨ **Projects & Guides** ✨
 - For my portfolio guide, click HERE
 
 
