@@ -1,41 +1,40 @@
-## Who is Colton and what is he creating?
+## Who is Colton and why does he love data so much?
 
-Hi, I'm a former Management Consultant and Accountant turned Data Analyst. I mastered Microsoft Excel early in my career, which is when I realized that I had a talent for data analytics. I have over 10 years of experience providing analytics, business process improvement, and consulting services to companies all over the world.
+I have over 10 years of experience providing analytics, business process improvement, and consulting services to companies all over the world.
 
-**Current LeetCode Progress**
-
-![image](https://user-images.githubusercontent.com/46463801/206287907-c0da1ad5-a79a-4616-b38e-759b01e9544b.png)
-
-✨ **Projects & Guides** ✨
-- For my portfolio guide, click HERE
+**Sample Projects** 📚
+- NetSuite Segregations of Duties (SOD) Audit
+- Oracle Fusion Journal Entry (JE) Analysis
+- NetSuite Fraud Analytics Audit
 
 
-🖊️ **Certifications** 🖊️
+**LeetCode Problems Solved** 📈
+
+  ![LeetCode Stats](https://user-images.githubusercontent.com/46463801/206287907-c0da1ad5-a79a-4616-b38e-759b01e9544b.png)
+
+
+**Certifications** 🖊️
 - Google Data Analytics Professional
 - AICPA Data Analytics
 - Project Management Professional (PMP)
+- Certified Fraud Examiner (CFE)
 
 
-💡 **Core Competencies** 💡
-- Excel
+**Core Competencies** 💡
+- Excel / VBA
 - SQL
 - Python
 - PowerBI
 - Tableau
 
 
-📌 **Key Skills** 📌
+**Key Skills** 📌
 - Data Cleaning and Wrangling
-- Data Visualization
 - Data Analysis
 - Relational Databases
+- Data Visualization
 - Dashboard Design and Development
 
 
-⚡️ **Currently Learning** ⚡
-- Machine learning (ML) using Python
-- Database administration
-
-
-📫 **Connect With Me** 📫
+**Connect With Me** 📫
 - [LinkedIn](https://www.linkedin.com/in/coltonlawson/)
