@@ -3,8 +3,8 @@
 I have over 10 years of experience providing analytics, business process improvement, and consulting services to companies all over the world.
 
 **Sample Projects** 📚
-- NetSuite Segregations of Duties (SOD) Audit
-- Oracle Fusion Journal Entry (JE) Analysis
+- [NetSuite Segregations of Duties (SOD) Audit](https://github.com/coltonwaynelawson/NetSuiteSOD)
+- [Oracle Fusion Journal Entry (JE) Analysis](https://github.com/coltonwaynelawson/OracleJEAnalysis)
 - NetSuite Fraud Analytics Audit
 
 
