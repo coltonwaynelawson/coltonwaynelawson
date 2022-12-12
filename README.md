@@ -14,7 +14,6 @@ I have over 10 years of experience providing analytics, business process improve
 
 
 **Certifications** 🎓
-- Google Data Analytics Professional
 - AICPA Data Analytics
 - Project Management Professional (PMP)
 - Certified Fraud Examiner (CFE)
