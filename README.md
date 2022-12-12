@@ -14,7 +14,7 @@ I have over 10 years of experience providing analytics, business process improve
 
 
 **Certifications** 🎓
-- AICPA Data Analytics
+- American Institute of Certified Public Accountants (AICPA) Data Analytics Certificate
 - Project Management Professional (PMP)
 - Certified Fraud Examiner (CFE)
 
