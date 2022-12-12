@@ -8,11 +8,6 @@ I have over 10 years of experience providing analytics, business process improve
 - NetSuite Fraud Analytics Audit
 
 
-**LeetCode Problems Solved** 📈
-
-  ![LeetCode Stats](https://user-images.githubusercontent.com/46463801/206287907-c0da1ad5-a79a-4616-b38e-759b01e9544b.png)
-
-
 **Certifications** 🎓
 - American Institute of Certified Public Accountants (AICPA) Data Analytics Certificate
 - Project Management Professional (PMP)
@@ -35,5 +30,9 @@ I have over 10 years of experience providing analytics, business process improve
 - Dashboard Design and Development
 
 
-**Connect With Me** 📫
+**LeetCode Problems Solved** 📈
+  ![LeetCode Stats](https://user-images.githubusercontent.com/46463801/206287907-c0da1ad5-a79a-4616-b38e-759b01e9544b.png)
+  
+  
+  **Connect With Me** 📫
 - [LinkedIn](https://www.linkedin.com/in/coltonlawson/)
