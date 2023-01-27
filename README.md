@@ -5,11 +5,9 @@ I have over 10 years of experience providing analytics, business process improve
 **Sample Projects** 📚
 - [NetSuite Segregations of Duties (SOD) Audit](https://github.com/coltonwaynelawson/NetSuiteSOD)
 - [Oracle Fusion Journal Entry (JE) Analysis](https://github.com/coltonwaynelawson/OracleJEAnalysis)
-- NetSuite Fraud Analytics Audit
 
 
 **Certifications** 🎓
-- American Institute of Certified Public Accountants (AICPA) Data Analytics Certificate
 - Project Management Professional (PMP)
 - Certified Fraud Examiner (CFE)
 
