@@ -1,10 +1,11 @@
 ## Who is Colton and why does he love data so much?
 
-I have over 10 years of experience providing analytics, business process improvement, and consulting services to companies all over the world.
+I have over 15 years of experience providing analytics, business process improvement, and consulting services.
 
 **Sample Projects** 📚
 - [NetSuite Segregations of Duties (SOD) Audit](https://github.com/coltonwaynelawson/NetSuiteSOD)
 - [Oracle Fusion Journal Entry (JE) Analysis](https://github.com/coltonwaynelawson/OracleJEAnalysis)
+- CampBing.com
 
 
 **Certifications** 🎓
@@ -13,10 +14,10 @@ I have over 10 years of experience providing analytics, business process improve
 
 
 **Core Competencies** 💡
-- Excel / VBA
-- SQL
 - Python
-- PowerBI
+- SQL
+- VBA
+- Power BI
 - Tableau
 
 
