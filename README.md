@@ -1,6 +1,6 @@
 ## Who is Colton and why does he love data so much?
 
-I have over 15 years of experience providing analytics, business process improvement, and consulting services.
+I have over 15 years of experience providing data analytics, web app development, business process improvement, and consulting services.
 
 **Sample Projects** 📚
 - [NetSuite Segregations of Duties (SOD) Audit](https://github.com/coltonwaynelawson/NetSuiteSOD) - Ensure NetSuite identities do not have improper access combinations.
