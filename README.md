@@ -29,7 +29,7 @@ I have over 15 years of experience providing data analytics, web app development
 - Dashboard Design and Development
 
 
-**Courses Certificates** 💡
+**Courses Certificates** 📝
 - Udemy - Data Visualization Literacy
 - Udemy - Data Analyst Bootcamp
 - Google - Data Analytics Professional Certificate
