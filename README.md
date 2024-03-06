@@ -29,9 +29,11 @@ I have over 15 years of experience providing analytics, business process improve
 - Dashboard Design and Development
 
 
-**LeetCode Problems Solved** 📈
+**Data Science Courses** 📈
+- Udemy - Data Visualization Literacy
+- Udemy - Data Analyst Bootcamp
+- Google - Data Analytics Professional Certificate
 
-  ![LeetCode Stats](https://user-images.githubusercontent.com/46463801/206287907-c0da1ad5-a79a-4616-b38e-759b01e9544b.png)
   
   
   **Connect With Me** 📫
