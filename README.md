@@ -3,9 +3,9 @@
 I have over 15 years of experience providing data analytics, web app development, business process improvement, and consulting services.
 
 **Sample Projects** 📚
-- [NetSuite Segregations of Duties (SOD) Audit](https://github.com/coltonwaynelawson/NetSuiteSOD) - Ensure NetSuite identities do not have improper access combinations.
-- [Oracle Fusion Journal Entry (JE) Analysis](https://github.com/coltonwaynelawson/OracleJEAnalysis) - Extract Journal Entries from Oracle Fusion for Journal Entry audit
-- [CampBing.com](https://campbing.com) - Find campsite reservations and sold out campgrounds
+- [NetSuite Segregations of Duties (SOD) Audit](https://github.com/coltonwaynelawson/NetSuiteSOD) - Python | Ensure NetSuite identities do not have improper access combinations.
+- [Oracle Fusion Journal Entry (JE) Analysis](https://github.com/coltonwaynelawson/OracleJEAnalysis) - Python | Extract Journal Entries from Oracle Fusion for Journal Entry audit
+- [CampBing.com](https://campbing.com) - Full Stack | Find campsite reservations and sold out campgrounds
 
 
 **Certifications** 🎓
