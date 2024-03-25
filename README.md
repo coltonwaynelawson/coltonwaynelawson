@@ -33,6 +33,7 @@ I have over 15 years of experience providing data analytics, web app development
 - Google - Data Analytics Professional Certificate
 - Udemy - Data Visualization Literacy
 - Udemy - Data Analyst Bootcamp
+- Udemy - Machine Learning, Data Science and Generative AI with Python
 
 
 **Connect With Me** 📫
